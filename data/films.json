@@ -1,30 +1,216 @@
 [
   {
-    "title": "something",
-    "date": 56,
-    "stuff": true
+    "title": "Ronin",
+    "released": "1998",
+    "plot": "A freelancing former U.S. Intelligence Agent tries to track down a mysterious package that is wanted by the Irish and the Russians.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWVkYzliZGEtODIxMi00MDQwLThjMDAtNzI3M2NjYjg4NDE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
   },
-  "Don't Say A Word (2001)",
-  "The Lord of the Rings: The Fellowship of the Ring (2001) ",
-  "Equilibrium (2002)",
-  "GoldenEye (!995)",
-  "The Island (2005)",
-  "Game of Thrones (2011–2019) ",
-  "Outlaw (2007)",
-  "Airborne (1998)",
-  "Red Riding: The Year of Our Lord 1974 (2009 TV Movie)",
-  "Essex Boys (2000)",
-  "Ca$h (2010)",
-  "Patriot Games (1992)",
-  "Black Death (2010)",
-  "Henry VIII (2003 TV Movie)",
-  "Clarissa (1991)",
-  "Caravaggio (1986)",
-  "War Requiem (1989)",
-  "The Field (1990)",
-  "Lorna Doone (1990 TV Movie)",
-  "Scarlett (1994)",
-  "The Hitcher (2007)",
-  "The Field (1990)",
-  "Tell Me That You Love Me (1991) – Suicide"
+  {
+    "title": "Don't Say a Word",
+    "year": "2001",
+    "runtimeMinutes": 113,
+    "plot": "When the daughter of a psychiatrist is kidnapped, he's horrified to discover that the abductors' demand is that he break through to a post traumatic stress disorder suffering young woman who knows a secret...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmZmNTg4NGQtOTMxZi00MWU3LTlkY2MtMjEyNzk3NTBlNzk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "buried alive"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "runtimeMinutes": 178,
+    "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot with many, many crossbow bolts"
+  },
+  {
+    "title": "GoldenEye",
+    "year": "1995",
+    "runtimeMinutes": 130,
+    "plot": "Years after a friend and fellow 00 agent is killed on a joint mission, a Russian crime syndicate steals a secret space-based weapons program known as \"GoldenEye\" and James Bond has to stop them from using it.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzk2OTg4MTk1NF5BMl5BanBnXkFtZTcwNjExNTgzNA@@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "dropped from an antenna"
+  },
+  {
+    "title": "The Island",
+    "year": "2005",
+    "runtimeMinutes": 136,
+    "plot": "A man living in a futuristic sterile colony begins to question his circumscribed existence when his friend is chosen to go to the Island, the last uncontaminated place on earth.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNjk0NjM1ODReQTJeQWpwZ15BbWU3MDc1NjIxMzM@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot through the neck with a grappling hook, then hanged"
+  },
+  {
+    "title": "Game of Thrones",
+    "year": "2011–2019",
+    "runtimeMinutes": 57,
+    "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "decapitated"
+  },
+  {
+    "title": "Patriot Games",
+    "year": "1992",
+    "runtimeMinutes": 117,
+    "plot": "When CIA analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets him and his family for revenge.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTVhMWNkZDgtMzkzNy00MGJmLThkYzItNWE5YmMxMDAxNTgxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "impaled on an anchor"
+  },
+  {
+    "title": "Far North",
+    "year": "2007",
+    "plot": "A soldier's unexpected arrival affects two women's simple existence.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzYwMTM5MV5BMl5BanBnXkFtZTcwNTc3MTQ4MQ@@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "frozen to death"
+  },
+  {
+    "title": "Airborne",
+    "year": "1993",
+    "plot": "California born and raised surfer Mitchell Goosen has to spend six months in Ohio while learning the hard way love is where the heart is.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmM4YzU2OWUtM2VkYy00Y2I5LTk3NzgtNmI3M2MyODM5YzY1XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot"
+  },
+  {
+    "title": "Essex Boys",
+    "year": "2000",
+    "plot": "The film is based loosely around events in December 1995 that culminated in the murders of three drug dealers in Rettendon, Essex, UK. On 6th December Patrick Tate, Craig Rolfe and Tony Tucker, three drug dealers well known to the...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdkNWI0YjktZjhmMS00YTRkLWJkNDYtOTU4Y2EwY2RjM2Q2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot"
+  },
+  {
+    "title": "Equilibrium",
+    "year": "2002",
+    "plot": "In an oppressive future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system and state.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzMzA1OTI3N15BMl5BanBnXkFtZTYwMzUyMDg5._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot"
+  },
+  {
+    "title": "The Hitcher",
+    "year": "1986",
+    "plot": "A young man who escapes the clutches of a murderous hitchhiker is subsequently stalked by the hitcher and framed for his crimes.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjVmY2FkMjUtMWZkNS00OGMzLWE4MGYtOWRhY2RlNTZhZjBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot"
+  },
+  {
+    "title": "Outlaw",
+    "year": "2007",
+    "plot": "A group of people who feel betrayed by their government and let down by their Police force form a modern-day outlaw posse in order to right what they see as the wrongs of society.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGEwNmMyZTgtMGRkYi00Mzk2LTg5MzgtZjYxZGNlYTJjZmVlXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot"
+  },
+  {
+    "title": "Red Riding: The Year of Our Lord 1974",
+    "year": "2009",
+    "plot": "Rookie journalist Eddie Dunford is determined to find the truth in an increasingly complex maze of lies and deceit surrounding the police investigation into a series of child abductions.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3N2IyZDgtZTc2NC00NGY3LThiY2QtNTBjMWYyNzI2MjdhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot"
+  },
+  {
+    "title": "Death Race 2",
+    "year": "2010",
+    "plot": "Explores the origins of the first \"Frankenstein\" car driver, Carl \"Luke\" Lucas, who died in a race at the beginning of the first film.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTUxNTYxNF5BMl5BanBnXkFtZTcwMzA1MDIyNQ@@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot"
+  },
+  {
+    "title": "Ca$h",
+    "year": "2010",
+    "plot": "After a down-and-out couple finds a briefcase of money that solves all their problems, a menacing stranger forces them to commit a series of armed robberies to pay it all back.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzVhNGY1MDktMzgyYy00NmVhLTliYjgtMzRkM2VmMjI3ZDQ1XkEyXkFqcGdeQXVyMzMzMDQ3MzY@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot"
+  },
+  {
+    "title": "Age of Heroes",
+    "year": "2011",
+    "plot": "The true story of the formation of Ian Fleming's 30 Commando unit, a precursor for the elite forces in the U.K.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2MzQ1MDA1M15BMl5BanBnXkFtZTcwNjUzMjEyNQ@@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "shot"
+  },
+  {
+    "title": "Black Death",
+    "year": "2010",
+    "plot": "Set during the time of the first outbreak of bubonic plague in England, a young monk is given the task of learning the truth about reports of people being brought back to life in a small village.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNjEwNjY3NV5BMl5BanBnXkFtZTcwMTY1NTUyNA@@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "quartered by horses"
+  },
+  {
+    "title": "Henry VIII",
+    "year": "2003",
+    "plot": "Two part mini-series documenting the stormy thirty-eight-year reign of King Henry VIII.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MzE1NTczOF5BMl5BanBnXkFtZTgwNzIwOTkwMzE@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "hanged from chains"
+  },
+  {
+    "title": "Caravaggio",
+    "year": "1986",
+    "plot": "A retelling of the life of the celebrated 17th-century painter through his brilliant, nearly blasphemous paintings and his flirtations with the underworld.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTM3Y2RhZTctOGFlYi00YWFlLTg1MTctOTE1YmJlYjBlYzVkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "throat slashed with a knife"
+  },
+  {
+    "title": "War Requiem",
+    "year": "1989",
+    "plot": "A movie with no spoken dialogue, it is set against the music and lyrics of Benjamin Britten's \"War Requiem\" which includes poetry by World War I soldier Wilfred Owen reflecting the horrors of war.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNjY4NjUzMF5BMl5BanBnXkFtZTcwNjQyNjAwMg@@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "impaled by a bayonet"
+  },
+  {
+    "title": "Clarissa",
+    "year": "1991",
+    "plot": "A virtuous young woman is oppressed by her ambitious family and a rake who's becomes obsessed with her.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI0OTE3MDM1OV5BMl5BanBnXkFtZTcwMDQwMDAwMQ@@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "impaled with a sabre"
+  },
+  {
+    "title": "The Field",
+    "released": "1990",
+    "plot": "When a field (which has been farmed by the McCabe family for generations) goes up for auction, the patriarch of the McCabe family will stop at nothing to prevent a rich American from buying it.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDA4Y2Y1OTMtNGE2My00ZDdhLWI3NzYtMTE3ZGM4NzFiMjc5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "pushed over a cliff by a herd of cows"
+  },
+  {
+    "title": "Lorna Doone",
+    "released": "2000",
+    "plot": "Against a backdrop of political and religious upheaval, a farmer falls in love with the \"queen\" of the notorious Doone clan—a family that he has sworn vengeance on.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUyOGNhZjMtYzBhNy00MDBkLWIwN2QtNjEwNzY0MzUwZjliXkEyXkFqcGdeQXVyOTU0MTU3Mzc@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "drowned in a river"
+  },
+  {
+    "title": "Scarlett",
+    "released": "1994",
+    "plot": "In the long-awaited sequel to Gone With the Wind, Scarlett's flight from the scrutiny of Atlanta society takes her on a journey to Savannah and Charleston, to England, and to Ireland, where she discovers her family's roots.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjY3YmMyY2QtYjQ5NC00MGFjLTk2OGUtZTNkMzRkOTZkYWE4XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "stabbed to death while asleep"
+  },
+  {
+    "title": "Ronin",
+    "released": "1998",
+    "plot": "A freelancing former U.S. Intelligence Agent tries to track down a mysterious package that is wanted by the Irish and the Russians.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWVkYzliZGEtODIxMi00MDQwLThjMDAtNzI3M2NjYjg4NDE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": ""
+  }
 ]
