@@ -1,13 +1,5 @@
 [
   {
-    "title": "Ronin",
-    "released": "1998",
-    "plot": "A freelancing former U.S. Intelligence Agent tries to track down a mysterious package that is wanted by the Irish and the Russians.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWVkYzliZGEtODIxMi00MDQwLThjMDAtNzI3M2NjYjg4NDE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "didDie": false,
-    "methodOfDeath": ""
-  },
-  {
     "title": "Don't Say a Word",
     "year": "2001",
     "runtimeMinutes": 113,
@@ -211,6 +203,702 @@
     "plot": "A freelancing former U.S. Intelligence Agent tries to track down a mysterious package that is wanted by the Irish and the Russians.",
     "poster": "https://m.media-amazon.com/images/M/MV5BOWVkYzliZGEtODIxMi00MDQwLThjMDAtNzI3M2NjYjg4NDE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
     "didDie": true,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Frankenstein Chronicles",
+    "released": "2015–2017",
+    "plot": "Inspector John Marlott investigates a series of crimes in 19th Century London, which may have been committed by a scientist intent on re-animating the dead.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDE2NWQ0YmQtNGIzZS00YTZlLWFkMjgtOWIxMTFkNGUzZDM2XkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "hanged"
+  },
+  {
+    "title": "Kingsglaive: Final Fantasy XV",
+    "released": "2016",
+    "plot": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal which gives Lucis its magic and power.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTEwNzMxNTU5M15BMl5BanBnXkFtZTgwMzMyMjg3OTE@._V1_SX300.jpg",
+    "didDie": true,
+    "methodOfDeath": "stabbed with a sword"
+  },
+  {
+    "title": "Snowpiercer",
+    "released": "2013",
+    "plot": "In a future where a failed climate change experiment has killed all life except for the survivors who boarded the Snowpiercer (a train that travels around the globe), a new class system emerges.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Mummies",
+    "released": "2001",
+    "plot": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzljODMwZGQtNDlkMC00NDFmLWE0ODYtMWEwOGE5Nzg3OWZjXkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Marriage",
+    "released": "2022–",
+    "plot": "Follows Ian and Emma, a married couple, who deal with the ups and downs of their 30-year long marriage.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzhiYThkM2EtMjBkYi00MmRkLTg3OGItMTg0Y2MxODMzNzZjXkEyXkFqcGdeQXVyMTMzNzQ4MjA5._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Time",
+    "released": "2021–",
+    "plot": "Eric is a prison officer who tries to protect those in his charge. When one of the most dangerous inmates identifies his weakness, Eric faces an impossible choice between his principles and his love for his family.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjM5N2RlNDgtNjM0OS00N2ZhLWJlYjgtNTdmNDVjMWM1ZmUzXkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Hitman 3 Revenge",
+    "released": "2018",
+    "plot": "The Hitman 3 Revenge, follows the events 6 months after The Hitman 2 Return with Gordon Russell on the run after a failed assassination of Major Hero. Major Hero still recovering from the attack, trying to stay out of the fight, h...",
+    "poster": "N/A",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Wolfwalkers",
+    "released": "2020",
+    "plot": "A young apprentice hunter and her father journey to Ireland to help wipe out the last wolf pack. But everything changes when she befriends a free-spirited girl from a mysterious tribe rumored to transform into wolves by night.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTA4MWQ4NGUtOGQ0MS00M2QyLWE5MDItZWM2YzA0ZDgxZTA2XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Possessor",
+    "released": "2020",
+    "plot": "An agent works for a secretive organization that uses brain-implant technology to inhabit other people's bodies - ultimately driving them to commit assassinations for high-paying clients.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBlYTlhMDctNTQ3ZC00MjM4LWIxNjctNDI4NjA3NDc3Yzc5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "World on Fire",
+    "released": "2019–",
+    "plot": "WWII drama centered on the lives of ordinary people affected by the war.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI0YTVmMWQtODY2MS00YjUxLTk2OWEtOWUzNTEwMWEzMTY2XkEyXkFqcGdeQXVyMTI5OTk3NDY5._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Curfew",
+    "released": "2012",
+    "plot": "Having reached the lowest point in his life, a self-destructive man on the brink of demise receives an unexpected call from his estranged sister to look after her young daughter for the night. Could this be the beginning of a new ...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTg5NWI3YjMtOGM3Mi00ZWFkLWE1YmQtOWUzYjFhZGQwYjVhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Sally4Ever",
+    "released": "2018",
+    "plot": "For 10 years Sally has lived a dull suburban life with David. But on the night he asks her to marry him, Sally has a crisis and embarks on a wild affair with Emma, a seductive, charismatic, boho actress, singer, musician, poet and...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxNTEzOTU3MF5BMl5BanBnXkFtZTgwNjAwNDE3NjM@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  "Hitman 2",
+  {
+    "title": "Medici",
+    "released": "2016–2019",
+    "plot": "A political family drama set in Florence in the early fifteenth century. Cosimo de Medici finds himself at the helm of his banking dynasty when his father, Giovanni, dies suddenly.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY2M2E1MGMtMjA4MS00ODcwLWEwNDctNTAwOWQ2MTYwZmFkXkEyXkFqcGdeQXVyMTk4NDUxNzY@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Taniel",
+    "released": "2018",
+    "plot": "\"Taniel\" looks at the last months of poet Taniel Varoujan's life, who was murdered in the Armenian Genocide of 1915. The film's narrative is heard in poetry and seen through Film Noir images.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY4YmZmNTEtZWUyMy00MzkxLTgyNWYtMzg4MzQzNDFmMjUxXkEyXkFqcGdeQXVyODIxMTQzNzE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Oath",
+    "released": "2018",
+    "plot": "In a politically divided America, a man struggles to make it through the Thanksgiving holiday without destroying his family.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5Nzg0Mjg2MF5BMl5BanBnXkFtZTgwMzk1OTYzNjM@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Unconquered",
+    "released": "1954",
+    "plot": "This documentary chronicles the life of Helen Keller, who was struck by an illness as a young child that left her both blind and deaf. Aided by her devoted teacher, Anne Sullivan, Keller is able to develop ways to communicate and ...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNDQ2ODYxMV5BMl5BanBnXkFtZTcwMjk4NzA1Mg@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Dark River",
+    "released": "2017",
+    "plot": "Following the death of her father, Alice (Ruth Wilson) returns to her home village for the first time in 15 years, to claim the tenancy to the family farm she believes is rightfully hers.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNDc3Mzg4NF5BMl5BanBnXkFtZTgwNzk5ODA4NDM@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Broken",
+    "released": "2012",
+    "plot": "Three suburban English families' lives intertwine with tragic consequences.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwOTczNzkwMl5BMl5BanBnXkFtZTcwNjIyNzE3OQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Drone",
+    "released": "2017",
+    "plot": "Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyOTkwNzk4MV5BMl5BanBnXkFtZTgwODg0NzgwMjI@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  "Civilization VI",
+  {
+    "title": "Wasted",
+    "released": "2016",
+    "plot": "Surreal slacker comedy set in a West Country village, where the lives of a group of twenty-something friends are changed forever by the appearance of a familiar figure as a spirit guide.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNlMTMwM2QtODYwYy00ZmNkLTg3M2MtYjY2YTliYTFkNzBjXkEyXkFqcGdeQXVyMjQ0ODM1MDE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Young Messiah",
+    "released": "2016",
+    "plot": "Tells the story of Jesus Christ at age seven as he and his family depart Egypt to return home to Nazareth. Told from his childhood perspective, it follows young Jesus as he grows into his religious identity.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzM3NzczMF5BMl5BanBnXkFtZTgwMzM0NjkwNzE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Legends",
+    "released": "2014–2015",
+    "plot": "Follows a deep-cover operative named Martin Odum, who has an uncanny ability to transform himself into a different person for each job. But his own identity comes into question when a mysterious stranger suggests that Martin isn't...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4Njg0MzYxMF5BMl5BanBnXkFtZTgwMjAzMjk4MTE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Martian",
+    "released": "2015",
+    "plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  "Kholat",
+  {
+    "title": "Pixels",
+    "released": "2015",
+    "plot": "When aliens misinterpret video feeds of classic arcade games as a declaration of war, they attack the Earth in the form of the video games.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNDYzMzgtZWMzNS00ODc2LTg2ZmMtOTE2MWZkNzIxMmQ0XkEyXkFqcGdeQXVyNjQ3MDg0MTY@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Any Day",
+    "released": "2015",
+    "plot": "An ex-fighter finds redemption from his troubled past.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMzEwOTA1NV5BMl5BanBnXkFtZTgwMTQ3MTQxNTE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Jupiter Ascending",
+    "released": "2015",
+    "plot": "A young woman discovers her destiny as an heiress of intergalactic nobility and must fight to protect the inhabitants of Earth from an ancient and destructive industry.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzk2MjA2NF5BMl5BanBnXkFtZTgwMjEwNzk3MjE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Instruments of Darkness",
+    "released": "2014",
+    "plot": "A war hero and the lure of ambition and descent into hell. An adaptation of Macbeth.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGRhYTc1NDgtNTk2OS00NTBmLWFlYWItOGU1ZDMzNzgwNWNhXkEyXkFqcGdeQXVyOTM0NTA1OQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Snow Queen 2",
+    "released": "2014",
+    "plot": "Snow queen casts a curse on her mirror making people see the worst in themselves.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQyM2I0YjItMDg0NC00NTRhLTlkMGItMjVhYTg3MzM0ODliXkEyXkFqcGdeQXVyMjE5NjEyMjM@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Robot Chicken",
+    "released": "2001–",
+    "plot": "Pop culture references fly thick and fast as stop-motion animation is featured in sketches lampooning everything from television movies to comic books.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2I0MjFhNmUtMzI4OS00ODI0LWExZGItMTdjNDExM2YwOGJmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Wicked Blood",
+    "released": "2014",
+    "plot": "Hannah and Amber Baker are trapped in a dark Southern underworld of violence, drugs and bikers. Both live in fear of their \"Uncle Frank\" Stinson, the ruthless leader of a crime organization.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTVmMzMyMTktMjk1MS00OGRjLTljZTQtMTc4OGQxZjI4YjI2XkEyXkFqcGdeQXVyOTQ0MDAwMjM@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  "Papa Sangre II",
+  {
+    "title": "Family Guy",
+    "released": "1999–",
+    "plot": "In a wacky Rhode Island town, a dysfunctional family strives to cope with everyday life as they are thrown from one crazy scenario to another.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Silent Hill: Revelation",
+    "released": "2012",
+    "plot": "When her adoptive father disappears, Sharon Da Silva is drawn into a strange and terrifying alternate reality that holds answers to the horrific nightmares that have plagued her since childhood.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjBkMjU0NWEtZjY5MS00YWYwLTljMmYtM2IzYTQ0NGU2YzAzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Accused",
+    "released": "2014",
+    "plot": "A young assistant DA puts a serial killing nurse behind bars, only to discover evidence that may prove her innocence.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE3Mjc0NDA3N15BMl5BanBnXkFtZTgwOTY4OTY2MjE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Soldiers of Fortune",
+    "released": "2012",
+    "plot": "Wealthy thrill-seekers pay huge premiums to have themselves inserted into military adventures, only this time things don't go exactly to plan.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNzgzNDA1Nl5BMl5BanBnXkFtZTcwOTEyNjM5Nw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Missing",
+    "released": "1982",
+    "plot": "When an idealistic American writer disappears during the Chilean coup d'état in September 1973, his wife and father try to find him.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGJmOGZiN2YtYWI2MS00ZGQzLWEwMmQtZTdiYjFjOWFiZDg4XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Mirror Mirror",
+    "released": "2012",
+    "plot": "An evil queen steals control of a kingdom and an exiled princess enlists the help of seven resourceful rebels to win back her birthright.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Mzk2MDUyM15BMl5BanBnXkFtZTcwODYzOTAyNw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Cleanskin",
+    "released": "2012",
+    "plot": "A British secret service agent is faced with the task of pursuing and eliminating a British-born suicide bomber and his terrorist cell.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE3MjkwMzQ2M15BMl5BanBnXkFtZTcwNjIwNDY0Nw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Lost Future",
+    "released": "2010",
+    "plot": "After a global cataclysm, mankind has degraded to a tribal society. In one of the tribes there is a disagreement about what is the best way to survive.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzc0MDhlYjEtMTk4MS00OTZjLWJlZGMtNTQ1ZTBjNjQ4MmY4XkEyXkFqcGdeQXVyMjU3MzI1NzI@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Crusoe",
+    "released": "2008–2009",
+    "plot": "Based on the novel written in 1719, this is said to be an action-packed period drama set in the 18th century, but with a contemporary take on race relations -- and a hero who will bear a resemblance to Angus MacGyver. NBC has comm...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNDc1MTUyM15BMl5BanBnXkFtZTcwNDExMzg5MQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Percy Jackson",
+    "released": "2017–",
+    "plot": "Based on the novels by Rick Riordan, this series follows a young demigod named Percy Jackson and his friends from Camp Half-Blood as they go on quests to save the world from Kronos's army.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDViZWVkNTYtY2U4Zi00NTk0LTkwNTMtYjJlZTA4Mjc4NDMzXkEyXkFqcGdeQXVyNzc1NTgzNzk@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Drumhead",
+    "released": "2009",
+    "plot": "N/A",
+    "poster": "N/A",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Red Riding: The Year of Our Lord 1983",
+    "released": "2009",
+    "plot": "When another child goes missing, washed-up solicitor John Piggott unwittingly provides a catalyst for Detective Chief Superindent Maurice Jobson to start to right some wrongs.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTliNTgwNmQtNjdmMy00YTUwLTg1MWItZGUxZTExZDg3ZGJjXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Real Prison Breaks",
+    "released": "2008–",
+    "plot": "Narrated by Sean Bean, this documentary series investigates cases of real-life prison breaks from across the UK, USA, Australia and New Zealand, featuring exclusive interviews with escapees.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzkzOTMwNjkyM15BMl5BanBnXkFtZTgwMjgyMzU0NjM@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Sharpe",
+    "released": "1993–2008",
+    "plot": "A series of stories starring Sean Bean as Richard Sharpe, a fictional British soldier in the Napoleonic Wars as he fights both Napoleon's forces and the strong prejudice of British aristocracy.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODg0MTliZDItMDQxZC00ZTJmLWIzNzEtY2FmNzEyYjhjODc2XkEyXkFqcGdeQXVyMzA3MTU2OTY@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Faceless",
+    "released": "1988",
+    "plot": "When model Barbara Hallen disappears in France, her father's private detective traces her steps to a private plastic surgery clinic run by Dr.Flamand.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmFkMTRkMTItZWQzZi00ODE5LThjMWUtMzgwODgzYzE4NzFjXkEyXkFqcGdeQXVyNTU2OTQ2Njk@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Silent Hill",
+    "released": "2006",
+    "plot": "A woman, Rose, goes in search for her adopted daughter within the confines of a strange, desolate town called Silent Hill.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQzNTU3NGUtNDAxMi00ZjFjLTkyYWUtYjgwZDJiMDljZWY4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  "The Elder Scrolls IV: Oblivion",
+  {
+    "title": "Flightplan",
+    "released": "2005",
+    "plot": "A bereaved woman and her daughter are flying home from Berlin to America. At 30,000 feet, the child vanishes, and nobody will admit she was ever on the plane.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGJkYTNiZjUtOTBhMi00NjY5LTkwZWEtNjBkNmE1YTZlMDc4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "North Country",
+    "released": "2005",
+    "plot": "A fictionalized account of the first major successful sexual harassment case in the United States, Jenson vs. Eveleth Mines, where a woman who endured a range of abuse while working as a miner filed and won the landmark 1984 lawsuit.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTM3OTEwODYzNl5BMl5BanBnXkFtZTcwNjM1NzUzMw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Dark",
+    "released": "2005",
+    "plot": "In mourning over the tragic drowning of their daughter Sarah, James and Adèle are visited by Ebrill, a young girl who claims she died 60 years ago - and bears a startling resemblance to Sarah.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODMxYmZhOTctNmFhYy00MWQ2LThhYTktZTg5NmMyMmQ4MjAwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "National Treasure",
+    "released": "2004",
+    "plot": "A historian races to find the legendary Templar Treasure before a team of mercenaries.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NTc4OTYxMF5BMl5BanBnXkFtZTcwMjk5NzUyMw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Pride",
+    "released": "2014",
+    "plot": "U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2OTcyOTE3MF5BMl5BanBnXkFtZTgwNTg5Mjc1MjE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Troy",
+    "released": "2004",
+    "plot": "An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Daring to Dream: England's story at the 2018 FIFA World Cup",
+    "released": "2018",
+    "plot": "A documentary film reflecting upon the summer of 2018 and the highs and lows of England's World Cup campaign",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ3ZjhjOTctYTYyYi00ODAxLTlhZDQtMTU3MmRiYzFhMTIxXkEyXkFqcGdeQXVyNjg2MTI5MzQ@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "released": "2003",
+    "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Big Empty",
+    "released": "2003",
+    "plot": "John Person is an actor with little work, and no money, who suddenly finds himself with an opportunity to make some quick cash by delivering a suitcase to the middle of nowhere.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzAyN2FiNDgtNDkxYy00NjU2LWEyMWYtMWRkNDVhNzI5MWQ3XkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "released": "2002",
+    "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  "Moby: We Are All Made of Stars",
+  {
+    "title": "Tom Clancy's Jack Ryan",
+    "released": "2018–",
+    "plot": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDNmNGI2NzAtZjZhYi00YTc1LWJjOTctMTRlMDI0MzEzNjA2XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Extremely Dangerous",
+    "released": "1999–",
+    "plot": "An intense thriller starring Sean Bean who plays a former M-15 agent who after being wrongfully convicted of murdering his family, goes on the run to seek vengeance on those responsible in a world beyond the law.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxMDk5MTcxMV5BMl5BanBnXkFtZTcwNTAxMTEyMQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Book That Wrote Itself",
+    "released": "1999",
+    "plot": "Vincent Macken has wriiten his magnus Opus but nobody will publish it. To prove to the publishers and his detractors that his novel is great, he decides to live out the story of his novel. He hires a filmmaker to help him document...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmIyMGRhY2EtMDllZi00MGU0LWE1NzQtZmFkMWZkMzg1MjVlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Bravo Two Zero",
+    "released": "1999",
+    "plot": "This is the true story of the most highly decorated British patrol since the Boer war: an eight man SAS team inserted behind Iraqi lines during the Gulf War in January 1991. Their mission was to take out the scud missiles which Sa...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjgzNjcwMzA2NV5BMl5BanBnXkFtZTcwNTE2MTgyMQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Canterbury Tales",
+    "released": "1972",
+    "plot": "Pasolini's artistic, sometimes violent, always vividly cinematic retelling of some of Chaucer's most erotic tales.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmEwNWRiMzEtOWI4Ny00MTQzLThlNTQtZGUwZTNiZjI0ZTQyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Anna Karenina",
+    "released": "2012",
+    "plot": "In late-19th-century Russian high society, St. Petersburg aristocrat Anna Karenina enters into a life-changing affair with the dashing Count Alexei Vronsky.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDgxNDg0NV5BMl5BanBnXkFtZTcwMjE4MzkwOA@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "When Saturday Comes",
+    "released": "1996",
+    "plot": "Jimmy Muir is a hard-drinking brewery worker in the city of Sheffield, with an arrogant lack of respect for authority. His entire life has been orientated by football and he possesses the potential, but has never had the courage o...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjIyZjBmODAtN2EzMi00ZDkwLWI4Y2MtOTI2ZDY3NjcwZGJiXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  "Tina Turner: GoldenEye",
+  {
+    "title": "Jacob",
+    "released": "1994",
+    "plot": "In the foreign land of Canaan lives Isaac, son of Abraham, with his clever, strong-willed wife Rebekah and his twin sons Esau and Jacob. The first-born, Esau, is a strong and fearless hunter with a voracious appetite for sensual p...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE4OTc2YzEtOWU2MS00ODU2LWFiNWMtNmU3MzIxNDEwZTg3XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Black Beauty",
+    "released": "1994",
+    "plot": "The fates of horses, and the people who own and command them, are revealed as Black Beauty narrates the circle of his life.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODUwYmY3ODUtOTE3Zi00OTEyLTkwOWEtZWE0MTAzYmNkNzI0XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Shopping",
+    "released": "1994",
+    "plot": "You've run out of options, no school, no job. Steal a car, smash a shop with a heavy car and reap the proceeds! This movie is about underground England. The causes, the benefits, and the result of a life of 'crash and carry.'",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjVlN2MzYTYtNzEyMy00YTI0LWFiMGYtZmJmOTBhZDgzYTM5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "A Woman's Guide to Adultery",
+    "released": "1993–",
+    "plot": "The story of three women who are involved in adulterous affairs - and Rose, who believes that anyone who sleeps with another's husband is committing a crime against womanhood. Ah, but how long will Rose be able to resist the charm...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3OTE0NDg0NV5BMl5BanBnXkFtZTcwNzU0NjAyMQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Lady Chatterley",
+    "released": "2006",
+    "plot": "A French adaptation of the second (and much less well-known) version of D.H. Lawrence's erotic tale.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM1NDg2NzE1OV5BMl5BanBnXkFtZTcwMjIyMzU1MQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Fool's Gold: The Story of the Brink's-Mat Robbery",
+    "released": "1992",
+    "plot": "A dramatized speculation of what happened in November 1983 when Micky McAvoy and some of his mates planned a heist and were surprised when they discovered they'd stumbled across a large stash of gold. But getting the gold away wit...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczMzIxMDA0OF5BMl5BanBnXkFtZTcwNDUxNzkxMQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Inspector Morse",
+    "released": "1987–2000",
+    "plot": "Chief Inspector Morse has an ear for Western classical music, a taste for beer, and a nose for crime. He and Detective Sergeant Robert Lewis solve intriguing cases in and around the Oxford area.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRkNWFjNWEtNzhhNS00OTgzLWJhMmUtZWFiMTQxMmFlMDYzXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "My Kingdom for a Horse",
+    "released": "1991–",
+    "plot": "N/A",
+    "poster": "N/A",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Screen One",
+    "released": "1985–2002",
+    "plot": "Anthology of unconnected movies of different genres.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2YwOTZhODUtMWFiMS00YjllLWEyOWQtMjJiMjBhM2MyZmY4XkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "4 Play",
+    "released": "1989–1991",
+    "plot": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM5NmFmNzAtNWRmOC00OTU0LWEwYjgtYWUwNzg2YmZmM2UwXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Screenplay",
+    "released": "1986–1993",
+    "plot": "An anthology drama series.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NDAyMzYtYzE2Zi00ZTc4LWE0ZGQtNWYzZGRkMjViNjQwXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Screen Two",
+    "released": "1985–1998",
+    "plot": "Producer Kenith Trodd was part of a 1984 team brought together to study how the BBC should respond to Channel Four's pioneering efforts in making movies for television and theatrical release. The result was a transition from the e...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDMwYTdlMTItZTQ5NS00YTc5LWJhNzgtYThhYjg3MTYzNzVkXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Windprints",
+    "released": "1989",
+    "plot": "A South African video journalist is sent to neighboring Namibia to do a story on a man who has been going around and killing black laborers. The killer, Nhadiep, has an almost mythical status to both the white farmers and the...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmY1MmFhMmYtOWI4Mi00MTYzLWE0M2EtYTFlNmI2MDY4MjVjXkEyXkFqcGdeQXVyMTYzNTE3NDA@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Fifteen Streets",
+    "released": "1989",
+    "plot": "In northern England around 1900, the worker John O'Brien lives near poverty in a small house in the worker's district. He falls in love with Mary, the teacher of his highly intelligent younger sister Kathy and daughter of a rich f...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNTUzNjI3N15BMl5BanBnXkFtZTcwNTA3ODMyMQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  "MuppeTelevision",
+  {
+    "title": "How to Get Ahead in Advertising",
+    "released": "1989",
+    "plot": "A cynical advertising exec has a block at work leading to a meltdown. He's hilariously out of control. Getting a big, talking boil on his shoulder doesn't help.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGM5ZTA0Y2MtNTM2NS00MDRkLThjMDEtMGEzYjc1MjgzNjQ2XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Storyteller",
+    "released": "1987–1989",
+    "plot": "An old storyteller tells European folk tales to his sarcastic dog.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAyNzY2Nzg4M15BMl5BanBnXkFtZTgwODk2MzkwMzE@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Troubles",
+    "released": "1988–",
+    "plot": "A grand hotel fallen into decay, two women with secrets, and a dangerous political situation about to boil over: these intriguing elements all combine in this gripping drama from the producer of the hit mini-series, The Irish R.M....",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2OTE2NDU5MF5BMl5BanBnXkFtZTcwNDcyOTAyMQ@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Stormy Monday",
+    "released": "1988",
+    "plot": "A crooked American businessman tries to push the shady influential owner of a nightclub in Newcastle, England to sell him the club. The club's new employee and the American's ex lover fall in love and inadvertently stir the pot.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTNkMGVmY2UtYTY3YS00ODcwLWE0OWQtZTAzY2Y1Njc5ZTdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Practice",
+    "released": "1997–2004",
+    "plot": "We follow the exploits and cases of defense attorneys of a Boston law firm. Bobby Donnell is the senior defense attorney and founder of the firm.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdlNmU4YmQtNTcwNi00YzljLWIyYTEtYzc1ZTg0NDFiMGVkXkEyXkFqcGdeQXVyMTE1MTYxMzk2._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Exploits at West Poley",
+    "released": "1985",
+    "plot": "In the late 1800s, two boys decide to divert an underground river and this causes problems for everyone in two villages, who demand the water for themselves.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4YmQwYjMtMDdjMC00ZGQ2LTlkZmItNGQ3MzQ3MDEzODQ5XkEyXkFqcGdeQXVyMTE5ODAzNg@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Samson and Delilah",
+    "released": "1985",
+    "plot": "What is the secret of Joey and Spansky's success at the races?",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzZiYjk5NjEtN2ZlYy00YmFiLWFiNjctMjc2MTMwYzMxNzc4XkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "Winter Flight",
+    "released": "1984",
+    "plot": "A young RAF serviceman and a local waitress fall for each other, but Falklands War looms in the background.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNjc0MTc3OF5BMl5BanBnXkFtZTcwNzA2NDAxMw@@._V1_SX300.jpg",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
+  {
+    "title": "The Bill",
+    "released": "1984–2010",
+    "plot": "Police drama series following officers and detectives from Sun Hill Police Station in East London.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNTY0NTU4MV5BMl5BanBnXkFtZTcwNzM5MzM2MQ@@._V1_SX300.jpg",
+    "didDie": false,
     "methodOfDeath": ""
   }
 ]
