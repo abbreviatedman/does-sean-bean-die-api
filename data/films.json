@@ -1,8 +1,7 @@
 [
   {
     "title": "Don't Say a Word",
-    "year": "2001",
-    "runtimeMinutes": 113,
+    "released": "2001",
     "plot": "When the daughter of a psychiatrist is kidnapped, he's horrified to discover that the abductors' demand is that he break through to a post traumatic stress disorder suffering young woman who knows a secret...",
     "poster": "https://m.media-amazon.com/images/M/MV5BYmZmNTg4NGQtOTMxZi00MWU3LTlkY2MtMjEyNzk3NTBlNzk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
     "didDie": true,
@@ -10,8 +9,7 @@
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "year": "2001",
-    "runtimeMinutes": 178,
+    "released": "2001",
     "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
     "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
     "didDie": true,
@@ -19,8 +17,7 @@
   },
   {
     "title": "GoldenEye",
-    "year": "1995",
-    "runtimeMinutes": 130,
+    "released": "1995",
     "plot": "Years after a friend and fellow 00 agent is killed on a joint mission, a Russian crime syndicate steals a secret space-based weapons program known as \"GoldenEye\" and James Bond has to stop them from using it.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMzk2OTg4MTk1NF5BMl5BanBnXkFtZTcwNjExNTgzNA@@._V1_SX300.jpg",
     "didDie": true,
@@ -28,8 +25,7 @@
   },
   {
     "title": "The Island",
-    "year": "2005",
-    "runtimeMinutes": 136,
+    "released": "2005",
     "plot": "A man living in a futuristic sterile colony begins to question his circumscribed existence when his friend is chosen to go to the Island, the last uncontaminated place on earth.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNjk0NjM1ODReQTJeQWpwZ15BbWU3MDc1NjIxMzM@._V1_SX300.jpg",
     "didDie": true,
@@ -37,8 +33,7 @@
   },
   {
     "title": "Game of Thrones",
-    "year": "2011–2019",
-    "runtimeMinutes": 57,
+    "released": "2011–2019",
     "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
     "didDie": true,
@@ -46,8 +41,7 @@
   },
   {
     "title": "Patriot Games",
-    "year": "1992",
-    "runtimeMinutes": 117,
+    "released": "1992",
     "plot": "When CIA analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets him and his family for revenge.",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTVhMWNkZDgtMzkzNy00MGJmLThkYzItNWE5YmMxMDAxNTgxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
     "didDie": true,
@@ -55,7 +49,7 @@
   },
   {
     "title": "Far North",
-    "year": "2007",
+    "released": "2007",
     "plot": "A soldier's unexpected arrival affects two women's simple existence.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzYwMTM5MV5BMl5BanBnXkFtZTcwNTc3MTQ4MQ@@._V1_SX300.jpg",
     "didDie": true,
@@ -63,7 +57,7 @@
   },
   {
     "title": "Airborne",
-    "year": "1993",
+    "released": "1993",
     "plot": "California born and raised surfer Mitchell Goosen has to spend six months in Ohio while learning the hard way love is where the heart is.",
     "poster": "https://m.media-amazon.com/images/M/MV5BZmM4YzU2OWUtM2VkYy00Y2I5LTk3NzgtNmI3M2MyODM5YzY1XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SX300.jpg",
     "didDie": true,
@@ -71,7 +65,7 @@
   },
   {
     "title": "Essex Boys",
-    "year": "2000",
+    "released": "2000",
     "plot": "The film is based loosely around events in December 1995 that culminated in the murders of three drug dealers in Rettendon, Essex, UK. On 6th December Patrick Tate, Craig Rolfe and Tony Tucker, three drug dealers well known to the...",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTdkNWI0YjktZjhmMS00YTRkLWJkNDYtOTU4Y2EwY2RjM2Q2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SX300.jpg",
     "didDie": true,
@@ -79,7 +73,7 @@
   },
   {
     "title": "Equilibrium",
-    "year": "2002",
+    "released": "2002",
     "plot": "In an oppressive future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system and state.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTkzMzA1OTI3N15BMl5BanBnXkFtZTYwMzUyMDg5._V1_SX300.jpg",
     "didDie": true,
@@ -87,7 +81,7 @@
   },
   {
     "title": "The Hitcher",
-    "year": "1986",
+    "released": "1986",
     "plot": "A young man who escapes the clutches of a murderous hitchhiker is subsequently stalked by the hitcher and framed for his crimes.",
     "poster": "https://m.media-amazon.com/images/M/MV5BYjVmY2FkMjUtMWZkNS00OGMzLWE4MGYtOWRhY2RlNTZhZjBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "didDie": true,
@@ -95,7 +89,7 @@
   },
   {
     "title": "Outlaw",
-    "year": "2007",
+    "released": "2007",
     "plot": "A group of people who feel betrayed by their government and let down by their Police force form a modern-day outlaw posse in order to right what they see as the wrongs of society.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMGEwNmMyZTgtMGRkYi00Mzk2LTg5MzgtZjYxZGNlYTJjZmVlXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SX300.jpg",
     "didDie": true,
@@ -103,7 +97,7 @@
   },
   {
     "title": "Red Riding: The Year of Our Lord 1974",
-    "year": "2009",
+    "released": "2009",
     "plot": "Rookie journalist Eddie Dunford is determined to find the truth in an increasingly complex maze of lies and deceit surrounding the police investigation into a series of child abductions.",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3N2IyZDgtZTc2NC00NGY3LThiY2QtNTBjMWYyNzI2MjdhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX300.jpg",
     "didDie": true,
@@ -111,7 +105,7 @@
   },
   {
     "title": "Death Race 2",
-    "year": "2010",
+    "released": "2010",
     "plot": "Explores the origins of the first \"Frankenstein\" car driver, Carl \"Luke\" Lucas, who died in a race at the beginning of the first film.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTUxNTYxNF5BMl5BanBnXkFtZTcwMzA1MDIyNQ@@._V1_SX300.jpg",
     "didDie": true,
@@ -119,7 +113,7 @@
   },
   {
     "title": "Ca$h",
-    "year": "2010",
+    "released": "2010",
     "plot": "After a down-and-out couple finds a briefcase of money that solves all their problems, a menacing stranger forces them to commit a series of armed robberies to pay it all back.",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzVhNGY1MDktMzgyYy00NmVhLTliYjgtMzRkM2VmMjI3ZDQ1XkEyXkFqcGdeQXVyMzMzMDQ3MzY@._V1_SX300.jpg",
     "didDie": true,
@@ -127,7 +121,7 @@
   },
   {
     "title": "Age of Heroes",
-    "year": "2011",
+    "released": "2011",
     "plot": "The true story of the formation of Ian Fleming's 30 Commando unit, a precursor for the elite forces in the U.K.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE2MzQ1MDA1M15BMl5BanBnXkFtZTcwNjUzMjEyNQ@@._V1_SX300.jpg",
     "didDie": true,
@@ -135,7 +129,7 @@
   },
   {
     "title": "Black Death",
-    "year": "2010",
+    "released": "2010",
     "plot": "Set during the time of the first outbreak of bubonic plague in England, a young monk is given the task of learning the truth about reports of people being brought back to life in a small village.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNjEwNjY3NV5BMl5BanBnXkFtZTcwMTY1NTUyNA@@._V1_SX300.jpg",
     "didDie": true,
@@ -143,7 +137,7 @@
   },
   {
     "title": "Henry VIII",
-    "year": "2003",
+    "released": "2003",
     "plot": "Two part mini-series documenting the stormy thirty-eight-year reign of King Henry VIII.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MzE1NTczOF5BMl5BanBnXkFtZTgwNzIwOTkwMzE@._V1_SX300.jpg",
     "didDie": true,
@@ -151,7 +145,7 @@
   },
   {
     "title": "Caravaggio",
-    "year": "1986",
+    "released": "1986",
     "plot": "A retelling of the life of the celebrated 17th-century painter through his brilliant, nearly blasphemous paintings and his flirtations with the underworld.",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTM3Y2RhZTctOGFlYi00YWFlLTg1MTctOTE1YmJlYjBlYzVkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
     "didDie": true,
@@ -159,7 +153,7 @@
   },
   {
     "title": "War Requiem",
-    "year": "1989",
+    "released": "1989",
     "plot": "A movie with no spoken dialogue, it is set against the music and lyrics of Benjamin Britten's \"War Requiem\" which includes poetry by World War I soldier Wilfred Owen reflecting the horrors of war.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNjY4NjUzMF5BMl5BanBnXkFtZTcwNjQyNjAwMg@@._V1_SX300.jpg",
     "didDie": true,
@@ -167,7 +161,7 @@
   },
   {
     "title": "Clarissa",
-    "year": "1991",
+    "released": "1991",
     "plot": "A virtuous young woman is oppressed by her ambitious family and a rake who's becomes obsessed with her.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTI0OTE3MDM1OV5BMl5BanBnXkFtZTcwMDQwMDAwMQ@@._V1_SX300.jpg",
     "didDie": true,
@@ -225,7 +219,7 @@
     "title": "Snowpiercer",
     "released": "2013",
     "plot": "In a future where a failed climate change experiment has killed all life except for the survivors who boarded the Snowpiercer (a train that travels around the globe), a new class system emerges.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SX300.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SX300.jpg",
     "didDie": false,
     "methodOfDeath": ""
   },
@@ -249,7 +243,7 @@
     "title": "Time",
     "released": "2021–",
     "plot": "Eric is a prison officer who tries to protect those in his charge. When one of the most dangerous inmates identifies his weakness, Eric faces an impossible choice between his principles and his love for his family.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjM5N2RlNDgtNjM0OS00N2ZhLWJlYjgtNTdmNDVjMWM1ZmUzXkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_SX300.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjM5N2RlNDgtNjM0OS00N2ZhLWJlYjgtNTdmNDVjMWM1ZmUzXkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_SX300.jpg",
     "didDie": false,
     "methodOfDeath": ""
   },
@@ -301,7 +295,14 @@
     "didDie": false,
     "methodOfDeath": ""
   },
-  "Hitman 2",
+  {
+    "title": "Hitman 2",
+    "released": "2018",
+    "plot": "Agent 47 embarks on a stealth mission to track down the elusive Shadow Client while learning the truth about his past. The spy thriller takes the assassin across international locations, from vibrant Miami to dangerous rainforests.",
+    "poster": "",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
   {
     "title": "Medici",
     "released": "2016–2019",
@@ -358,7 +359,14 @@
     "didDie": false,
     "methodOfDeath": ""
   },
-  "Civilization VI",
+  {
+    "title": "Civilization VI",
+    "released": 2016,
+    "plot": "Control a civilization, from the beginnings of life, all the way towards the modern age. All while avoiding barbarians, gathering resources and dealing with the other civilizations. Will your nation thrive?",
+    "poster": "",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
   {
     "title": "Wasted",
     "released": "2016",
@@ -391,7 +399,14 @@
     "didDie": false,
     "methodOfDeath": ""
   },
-  "Kholat",
+  {
+    "title": "Kholat",
+    "released": "2015",
+    "plot": "Horror/Survival PC game based on the Russian paranormal event \"The Dyatlov Pass Incident\".",
+    "poster": "",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
   {
     "title": "Pixels",
     "released": "2015",
@@ -448,7 +463,14 @@
     "didDie": false,
     "methodOfDeath": ""
   },
-  "Papa Sangre II",
+  {
+    "title": "Papa Sangre II",
+    "released": "2013",
+    "plot": "Papa Sangre II is a survival horror game told entirely through sound. It starts at your inevitable end. You are dead, and must hunt for memories from the deceased to get back to the other side. Trapped in the peculiar afterlife of Papa Sangre, your guide is the voice of Sean Bean. Death for you is just the beginning.",
+    "poster": "",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
   {
     "title": "Family Guy",
     "released": "1999–",
@@ -577,7 +599,14 @@
     "didDie": false,
     "methodOfDeath": ""
   },
-  "The Elder Scrolls IV: Oblivion",
+  {
+    "title": "The Elder Scrolls IV: Oblivion",
+    "released": "",
+    "plot": "",
+    "poster": "",
+    "didDie": true,
+    "methodOfDeath": ""
+  },
   {
     "title": "Flightplan",
     "released": "2005",
@@ -658,7 +687,14 @@
     "didDie": false,
     "methodOfDeath": ""
   },
-  "Moby: We Are All Made of Stars",
+  {
+    "title": "Moby: We Are All Made of Stars",
+    "released": "2002",
+    "plot": "Moby performs in the music video \"We Are All Made of Stars\" from the album \"18\" recorded for Mute Records. Moby dressed as a spaceman in astronaut gear observes the seedy life that some celebrity live in. He visits a cocktail lounge, a strip club, a peep show, a fast food restaurant, a motel, and an arcade.",
+    "poster": "",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
   {
     "title": "Tom Clancy's Jack Ryan",
     "released": "2018–",
@@ -715,7 +751,14 @@
     "didDie": false,
     "methodOfDeath": ""
   },
-  "Tina Turner: GoldenEye",
+  {
+    "title": "Tina Turner: GoldenEye",
+    "released": "",
+    "plot": "",
+    "poster": "",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
   {
     "title": "Jacob",
     "released": "1994",
@@ -828,7 +871,14 @@
     "didDie": false,
     "methodOfDeath": ""
   },
-  "MuppeTelevision",
+  {
+    "title": "MuppeTelevision",
+    "released": "",
+    "plot": "",
+    "poster": "",
+    "didDie": false,
+    "methodOfDeath": ""
+  },
   {
     "title": "How to Get Ahead in Advertising",
     "released": "1989",
